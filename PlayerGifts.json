@@ -1,18 +1,18 @@
 {
-	"LastUpdated": "2021-03-11T19:03:59.4078658+10:00",
+	"LastUpdated": "2024-04-18T01:59:14.8642558Z",
 	"UserGifts": {
 		"69420": [{
-				"Id": 9008,
+				"Id": 1,
 				"AvatarItemDesc": "",
 				"ConsumableItemDesc": "",
 				"EquipmentPrefabName": "",
 				"EquipmentModificationGuid": "",
 				"CurrencyType": 2,
-				"Currency": 10,
+				"Currency": 100000,
 				"Xp": 0,
 				"Level": 0,
 				"GiftRarity": 0,
-				"Message": "No reason to use tokens!",
+				"Message": "Freddy is gay",
 				"Context": 0
 			
 
